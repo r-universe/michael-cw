@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SurveySolutionsAPIv2"]
+	path = SurveySolutionsAPIv2
+	url = https://github.com/michael-cw/surveysolutionsapiv2
 [submodule "susographql"]
 	path = susographql
 	url = https://github.com/michael-cw/susographql
