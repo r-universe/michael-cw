@@ -8,3 +8,6 @@
 [submodule "susographql"]
 	path = susographql
 	url = https://github.com/michael-cw/susographql
+[submodule "vantorr"]
+	path = vantorr
+	url = https://github.com/michael-cw/vantorr
